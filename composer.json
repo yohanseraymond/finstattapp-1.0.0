@@ -23,11 +23,13 @@
         "league/flysystem-aws-s3-v3": "^3.0",
         "mercadopago/dx-php": "^2.6",
         "mews/purifier": "^3.3",
+        "opencoconut/coconut": "3.*",
         "paypal/rest-api-sdk-php": "^1.14",
         "pbmedia/laravel-ffmpeg": "^8.2.2",
         "pion/laravel-chunk-upload": "^1.4",
         "pusher/pusher-php-server": "^5.0",
         "ramsey/uuid": "^4.2.2",
+        "react/event-loop": "^1.5",
         "silviolleite/laravelpwa": "^2.0",
         "spatie/schema-org": "^3.9",
         "stripe/stripe-php": "^7.77",
@@ -35,8 +37,7 @@
         "symfony/mailgun-mailer": "^6.0",
         "tcg/voyager": "^1.5",
         "yabacon/paystack-php": "^2.2",
-        "zanysoft/laravel-zip": "^2.0",
-        "opencoconut/coconut": "3.*"
+        "zanysoft/laravel-zip": "^2.0"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.5",
